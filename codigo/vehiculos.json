@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "marca": "Ferrari",
+    "modelo": "F2004",
+    "año": 2004
+  },
+  {
+    "id": 3,
+    "marca": "Mercedes",
+    "modelo": "W11",
+    "año": 2020
+  },
+  {
+    "id": 4,
+    "marca": "Williams",
+    "modelo": "FW14B",
+    "año": 1992
+  }
+]
